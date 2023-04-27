@@ -1,4 +1,4 @@
-# Netflix Clone 🎥
+# 🎥 Netflix Clone
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://www.javascript.com/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-2.6.12-green)](https://vuejs.org/)
